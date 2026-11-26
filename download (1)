@@ -1,3 +1,0 @@
-MONGODB_URI="mongodb+srv://USUARIO:CLAVE@cluster0.iucob3b.mongodb.net/"
-DB_NAME=inv
-PORT=3000
